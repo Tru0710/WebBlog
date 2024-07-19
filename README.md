@@ -1,1 +1,1 @@
-# WebBlog
+A web blog (often simply called a blog) is an online journal or informational website displaying information in reverse chronological order, with the latest posts appearing first. It is a platform where writers or groups of writers share their views on individual subjects.
